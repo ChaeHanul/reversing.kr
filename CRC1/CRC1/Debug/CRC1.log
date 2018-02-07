@@ -1,0 +1,10 @@
+﻿  test.c
+c:\users\chw\documents\visual studio 2015\projects\crc1\crc1\test.c(49): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+c:\users\chw\documents\visual studio 2015\projects\crc1\crc1\test.c(49): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+c:\users\chw\documents\visual studio 2015\projects\crc1\crc1\test.c(49): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+c:\users\chw\documents\visual studio 2015\projects\crc1\crc1\test.c(83): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+c:\users\chw\documents\visual studio 2015\projects\crc1\crc1\test.c(83): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+c:\users\chw\documents\visual studio 2015\projects\crc1\crc1\test.c(83): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+c:\users\chw\documents\visual studio 2015\projects\crc1\crc1\test.c(83): warning C4047: '초기화 중': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  CRC1.vcxproj -> C:\Users\CHW\Documents\Visual Studio 2015\Projects\CRC1\Debug\CRC1.exe
+  CRC1.vcxproj -> C:\Users\CHW\Documents\Visual Studio 2015\Projects\CRC1\Debug\CRC1.pdb (Full PDB)
